@@ -2,22 +2,74 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: Data Visualization
+linktitle: Modules 
 menu:
   example:
     name: Overview
     weight: 1
 summary: Learn how to use Academic's docs layout for publishing online courses, software
   documentation, and tutorials.
-title: Overview
-toc: true
+title: Program Overview
+toc: false
 type: docs
 weight: 1
 ---
 
-The following are all *free* books, available to read online:
+The Center for Health Innovation, Research, Action, and Learning - Bangladesh (CHIRAL Bangladesh) runs different health data analytics, bioinformatics, and genomic data science programs. Health Research ToolBox: A Step by Step Guide for Beginners is one of them; in this program, the participants will learn how to handle an end-to-end research project, literature search, and manuscript writing.
 
-- Modern Dive: http://moderndive.com
-- R for Data Science: http://r4ds.had.co.nz
-- Fundamentals of Data Visualization: http://serialmentor.com/dataviz/
-- Data Visualization: A Practical Introduction: http://socviz.co
+<table border = "1">
+        <tr>
+            <th style="text-align:center">Course Code</th>
+            <th style="text-align:center">Course Name</th>
+            <th style="text-align:center">Level</th>
+            <th style="text-align:center">Course Website</th>
+        </tr>
+        <tr>
+           <td>C1</td>
+           <td>Introduction to Health Research</td>
+           <td>Introductory</td>
+           <td> <a href="/teaching/research-toolbox/research-toolbox-c1-2021" target="_blank">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>C2</td>
+           <td>NIH Research Ethics</td>
+           <td>Intermediate</td>
+           <td> <a href="/teaching/research-toolbox/research-toolbox-c1-2021" target="_blank">Find out more</a></td>
+        </tr>
+         <tr>
+           <td>C3</td>
+           <td>Applied Biotatistics for Beginners</td>
+           <td>Introductory</td>
+           <td> <a href="/teaching/research-toolbox/research-toolbox-c2-2021" target="_blank">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>C4</td>
+           <td>Data Collection Tools (KoboToolBox, Google Forms)</td>
+           <td>Introductory</td>
+           <td> <a href="/teaching/research-toolbox/research-toolbox-c3-2021" target="_blank">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>C5</td>
+           <td>Introduction to R for Health Data Analysis</td>
+            <td>Introductory</td>
+            <td> <a href="/teaching/research-toolbox/research-toolbox-c4-2021" target="_blank">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>C6</td>
+           <td>Academic Writing with LaTeX</td>
+            <td>Intermediate</td>
+            <td> <a href="/teaching/research-toolbox/research-toolbox-c5-2021" target="_blank">Find out more</a></td>
+        </tr>
+      <tr>
+           <td>C7</td>
+           <td>Tools and Software for Research</td>
+            <td>Intermediate</td>
+            <td> <a href="/teaching/research-toolbox/research-toolbox-c6-2021" target="_blank">Find out more</a></td>
+      </tr>
+      <tr>
+           <td>C8</td>
+           <td>Research Project</td>
+            <td>Intermediate</td>
+            <td> <a href="/teaching/research-toolbox/research-toolbox-c6-2021" target="_blank">Find out more</a></td>
+      </tr>
+ </table>

@@ -4,7 +4,7 @@ draft: false
 linktitle: Useful books
 menu:
   example:
-    parent: Learning resources
+    parent: Resources
     weight: 1
 title: Useful books
 toc: true

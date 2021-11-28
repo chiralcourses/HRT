@@ -4,7 +4,7 @@ draft: false
 linktitle: Useful readings
 menu:
   example:
-    parent: Learning resources
+    parent: Resources
     weight: 3
 title: Useful readings
 toc: true
