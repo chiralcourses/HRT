@@ -41,7 +41,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "CHIRAL Bangladesh"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -117,7 +117,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "blue-balloon.jpg"
+sharing_image = "share.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
