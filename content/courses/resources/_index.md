@@ -2,7 +2,7 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: Modules 
+linktitle: Modules
 menu:
   example:
     name: Overview
@@ -21,55 +21,55 @@ The Center for Health Innovation, Research, Action, and Learning - Bangladesh (C
         <tr>
             <th style="text-align:center">Course Code</th>
             <th style="text-align:center">Course Name</th>
-            <th style="text-align:center">Level</th>
-            <th style="text-align:center">Course Website</th>
+            <th style="text-align:center">Week(s)</th>
+            <th style="text-align:center">Instructor(s)</th>
         </tr>
         <tr>
-           <td>C1</td>
+           <td>HRT101</td>
            <td>Introduction to Health Research</td>
-           <td>Introductory</td>
-           <td> <a href="/teaching/research-toolbox/research-toolbox-c1-2021" target="_blank">Find out more</a></td>
+           <td>3</td>
+           <td> Dr. Tasneem, Dr. Tanvir, Jubayer Hossain</td>
         </tr>
         <tr>
-           <td>C2</td>
+           <td>HRT102</td>
            <td>NIH Research Ethics</td>
-           <td>Intermediate</td>
-           <td> <a href="/teaching/research-toolbox/research-toolbox-c1-2021" target="_blank">Find out more</a></td>
+           <td>1</td>
+           <td>Dr. Ashok, Dr. Tanvir, Jubayer Hossain</td>
         </tr>
          <tr>
-           <td>C3</td>
+           <td>HRT103</td>
            <td>Applied Biotatistics for Beginners</td>
-           <td>Introductory</td>
-           <td> <a href="/teaching/research-toolbox/research-toolbox-c2-2021" target="_blank">Find out more</a></td>
+           <td>4</td>
+           <td>Jubayer Hossain</td>
         </tr>
         <tr>
-           <td>C4</td>
-           <td>Data Collection Tools (KoboToolBox, Google Forms)</td>
-           <td>Introductory</td>
-           <td> <a href="/teaching/research-toolbox/research-toolbox-c3-2021" target="_blank">Find out more</a></td>
+           <td>HRT104</td>
+           <td>Tools for Data Collection</td>
+           <td>1</td>
+           <td>Atik Shahariar, Wahid Arafat</td>
         </tr>
         <tr>
-           <td>C5</td>
+           <td>HRT105</td>
            <td>Introduction to R for Health Data Analysis</td>
-            <td>Introductory</td>
-            <td> <a href="/teaching/research-toolbox/research-toolbox-c4-2021" target="_blank">Find out more</a></td>
+            <td>4</td>
+            <td>Jubayer Hossain</td>
         </tr>
         <tr>
-           <td>C6</td>
+           <td>HRT106</td>
            <td>Academic Writing with LaTeX</td>
-            <td>Intermediate</td>
-            <td> <a href="/teaching/research-toolbox/research-toolbox-c5-2021" target="_blank">Find out more</a></td>
+            <td>1</td>
+            <td>Atik Shahariar, Muhibullah Sahajan, Jubayer Hossain</td>
         </tr>
       <tr>
-           <td>C7</td>
-           <td>Tools and Software for Research</td>
-            <td>Intermediate</td>
-            <td> <a href="/teaching/research-toolbox/research-toolbox-c6-2021" target="_blank">Find out more</a></td>
+           <td>HRT107</td>
+           <td>Tools and Softwares for Research</td>
+            <td>1</td>
+            <td>Atik Shahariar, Jubayer Hossain</td>
       </tr>
       <tr>
-           <td>C8</td>
+           <td>HRT108</td>
            <td>Research Project</td>
-            <td>Intermediate</td>
-            <td> <a href="/teaching/research-toolbox/research-toolbox-c6-2021" target="_blank">Find out more</a></td>
+            <td>1</td>
+            <td>Dr. Tasneem, Sabia Sultana, Dr. Jannatul Ferdous, Dr. Tanvir, Dr. Ashok</td>
       </tr>
  </table>
