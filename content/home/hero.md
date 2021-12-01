@@ -43,17 +43,15 @@ hero_media = "blimp.jpg"
   icon = "pen-nib"
 
 [cta_alt]
-  url = "https://github.com/chiral-courses"
-  label = "Materials"
+  url = "https://hrt.chiralbd.org/syllabus/resources/"
+  label = "Detail Syllabus"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
   label = 'Registration will start on 1 December, 2021'
 +++
 
-- Undergraduate Students(Any background)
-- Health Professionals
-
+If you have no research experience but want to learn the necessary concepts in health research- then this is the right place for you to begin with.
 
 <!--
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/chiralcourses" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span> -->

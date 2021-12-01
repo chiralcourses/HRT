@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50 # Order that this section will appear.
 
-title = "References"
+title = "Modules"
 subtitle = ""
 
 [design]
@@ -23,11 +23,11 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
   # Background image.
   image = "headers/Clouds.jpg"  # Name of image in `static/img/`.
   image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -43,15 +43,26 @@ subtitle = ""
   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
 
-## Textbook
-- [Basic Epidemiology by WHO](#)
-- [Fundamentalsof Biostatistics by Bernard Rosner](#)
-- [Applied Medical Statistics for Beginners by Dr. Mohamed Elsherif](#)
-- [Introduction to R Programming by Dr. Roger D. Peng](#)
+## Moudles
+HRT101: Introduction to Health Research <br>
+HRT102: NIH Research Ethics <br>
+HRT103: Applied Biotatistics for Beginners<br>
+HRT104: Tools for Data Collection<br>
+HRT105: Introduction to R for Health Data Analysis<br>
+HRT106: Academic Writing with LaTeX<br>
+HRT107: Tools and Softwares for Research<br>
+HRT108: Research Project
+
+## References
+Basic Epidemiology by World Health Organization <br>
+NIH Research Ethics <br>
+Fundamentalsof Biostatistics by Bernard Rosner <br>
+Applied Medical Statistics for Beginners by Dr. Mohamed Elsherif <br>
+Introduction to R Programming by Dr. Roger D. Peng <br>

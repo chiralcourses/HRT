@@ -6,8 +6,8 @@ bio: This course will give students a foundation in the principles and practice 
 email: "ashok@gmail.com"
 name: Wahid Arafat
 organizations:
-- name: 
-  url: https://www.ohsu.edu/
+- name: CHIRAL Bangladesh
+  url: https://chiralbd.org/member/wahid_arafat/
 role: Teaching Assistant
 social:
 - icon: linkedin
@@ -23,3 +23,8 @@ superuser: true
 user_groups:
 - Instructors
 ---
+
+
+He is an undergraduate student in the Department of Microbiology at Jagannath University. Virology, Immunology, Bioinformatics, Public health are some of his research interests. Currently, he is working as a research assistant at CHIRAL Bangladesh.
+
+Key Skills: Data Collection, SPSS, KoboToolBox
