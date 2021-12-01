@@ -15,24 +15,34 @@ type: docs
 weight: 1
 ---
 
+
 ## Course Description
 This course will give students a foundation in research principles and practice, mainly applied to public health. In addition, we will have weekly lectures covering various topics, including research methodology, data collection methods, statistics, R programming, data visualization(human perception, color theory, principles of visual design), etc.
 
 We will also have weekly hands-on laboratory sessions in which students will have the opportunity to put the lecture material into practice
+
 ## Course Objectives
 - Provides fundamentals of research methodology concepts.
+- Understanding of the basic data collection principles.
+- Literature database search, literature review and documentation.
+- Research proposal writing and ethical approval process.
+- Use of data collection tools and data management strategies.
+- Statistics: the language of research.
 - Provides a solid understanding of data analysis workflow in the field of health sciences.
-- Understanding of the basic programming concept using R programming in the health research perspective
-- Understanding of the essential health data analysis workflow
-- How to import and clean data using Pandas(A data management package built with Python)
-- How to formulate a research question
-- How to analyze health data
-- How to visualize data using R
-- How to analyze and visualize geospatial data using R
+- Understanding of the basic programming concept using R programming in the health research perspective.
+- Understanding of the essential health data analysis workflow.
+- Data management with dplyr(A R package for data management)
+- Data visualization with ggplot2(A R package for data visualization)
 - Understanding and interpreting data using descriptive statistics with R
 - Understanding and interpreting data using inferential statistics with R
 - Building and evaluating regressing model using R
 - Building and evaluating classification model using R
+
+## Benifits and Rewards
+- Solid understanding of basic health research methodology
+- Based on the performance students will be given Research Assistantship(RA) oppurtunities to conduct research with CHIRAL Bangladesh research team in active projects.
+- Recommendations
+- Completion Certificate
 
 ## Who this course is for
 - If you have no research experience but want to learn the necessary concepts in health research- then this is the right place for you to begin with.
@@ -41,7 +51,7 @@ We will also have weekly hands-on laboratory sessions in which students will hav
 - If you are an undergrad student and planning to start your research journey, this course will surely also help you.
 
 ## Course Prerequisites
-There are no prerequisites, and we do not assume any prior background in research, data analysis, or statistics. 
+There are no prerequisites, and we do not assume any prior background in research, data analysis, or statistics.
 
 ## Required Textbooks
 The following books purchased and are avilable at the online book store. We have also a placed a copy of each on reserve at our online library.

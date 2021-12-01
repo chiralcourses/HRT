@@ -1,8 +1,5 @@
-<!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/apreshill/share-blogdown)
+## Health Research ToolBox - A Step by Step Guide for Beginners
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2c32a840-d789-4a47-b5b4-953a724828cc/deploy-status)](https://app.netlify.com/sites/share-blogdown/deploys)
+This course will give students a foundation in research principles and practice, mainly applied to public health. In addition, we will have weekly lectures covering various topics, including research methodology, data collection methods, statistics, R programming, data visualization(human perception, color theory, principles of visual design), etc.
 
-# share-blogdown
-
-This is a demo course website made with the blogdown R package and a custom Academic theme for Hugo. This website was made as part of an RStudio Webinar. 
+We will also have weekly hands-on laboratory sessions in which students will have the opportunity to put the lecture material into practice.
