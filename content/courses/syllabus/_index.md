@@ -50,9 +50,6 @@ We will also have weekly hands-on laboratory sessions in which students will hav
 - If you have some experience but are not confident enough to start your project, you can start from here.
 - If you are an undergrad student and planning to start your research journey, this course will surely also help you.
 
-## Course Prerequisites
-There are no prerequisites, and we do not assume any prior background in research, data analysis, or statistics.
-
 ## Required Textbooks
 The following books purchased and are avilable at the online book store. We have also a placed a copy of each on reserve at our online library.
 - [Basic Epidemiology by WHO](#)
@@ -60,17 +57,15 @@ The following books purchased and are avilable at the online book store. We have
 - [Applied Medical Statistics for Beginners by Dr. Mohamed Elsherif](#)
 - [Introduction to R Programming by Dr. Roger D. Peng](#)
 
+
 ## Course Policies
 Please use the information below as reference for how this class will be conducted. We would ask that you review this information before contacting us with any questions.
 
-## Assignment Policy
-- 20% of your grade will be determinded by an assignment during normal class hours.
-- 40% of your grade will come from a 5-10 page report that explores in further detail one of the research areas in the class syllabus. We expect that students will use orginal data collection, whether quantitative or qualitative analysis, to answer the questions posed.
-- 20% of your grade will be determinded by your attendance and participation in class.
-- 20% of your grade will come from 2 page research proposal writing that you must complete on two separate weeks of the class.
-## Attendance Policy
-Your attendance and participation grade is divided into two parts: 10% comes from your presence in class, and 10% from your participation during discussion. We will allow you to miss three classes during the program for any reason: you do not need to inform us ahead of time unless you are missing for an approved reason(i.e., university activity, sickness) and would like the absence to be expected.
-## Discord Server Policy
+### News and Announcements
+As much as possible we use the [Discord](https://discord.io/chiral-community) for new announcements.
+Discord is a chatroom for discussion. The participants can interact with mentors, share their problems and solutions easily.
+
+### Discord Server Policy
 We welcome messages from participants regarding class policies, assignments and readings. In general We will response to all messages within 24 hours; however it may take us longer to do son the weekends. We are open to taking questions about the readings and class information via discord server.
 
 We have a small but strict set of rules on our server. Please read over them and take them on board. If you don't understand a rule or need to report an incident, please send a direct message to management team.
@@ -87,12 +82,25 @@ You have to follow these nickname policies to keep safe and clean environment fo
 - **Rule 4:** No nicknames designed to annoy other users
 
 
-## Make-Up Assignment Policy
+
+### Course Prerequisites
+There are no prerequisites, and we do not assume any prior background in research, data analysis, or statistics.
+
+
+### Assignment Policy
+- 20% of your grade will be determinded by an assignment during normal class hours.
+- 40% of your grade will come from a 5-10 page report that explores in further detail one of the research areas in the class syllabus. We expect that students will use orginal data collection, whether quantitative or qualitative analysis, to answer the questions posed.
+- 20% of your grade will be determinded by your attendance and participation in class.
+- 20% of your grade will come from 2 page research proposal writing that you must complete on two separate weeks of the class.
+### Attendance Policy
+Your attendance and participation grade is divided into two parts: 10% comes from your presence in class, and 10% from your participation during discussion. We will allow you to miss three classes during the program for any reason: you do not need to inform us ahead of time unless you are missing for an approved reason(i.e., university activity, sickness) and would like the absence to be expected.
+
+### Make-Up Assignment Policy
 If an event outside of your control causes you to miss an assignment, please email our management team as soons as possible so alternative arrangements can be made. Please note that as rule we do not reschedule assignments for the participants vacations.
 
-## Academic Dishonesty Policy
+### Academic Dishonesty Policy
 If we determine that you have willfully palagiarized an assignment, you will receive an automatic zero on the assignment and you may fail the class and you can not join us as a team member.
-## Additional Learning Needs
+### Additional Learning Needs
 Each of us has a different learning style, and We will do our best to accomodate diverse learning needs in the class. If you need any kind of accomodation, please come and talk to us as soon as you can so we can arrange a style of learning that works for you.
 
 ## Course Modules
