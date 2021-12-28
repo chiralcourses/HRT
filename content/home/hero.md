@@ -48,7 +48,7 @@ hero_media = "blimp.jpg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Course Fee: 5100 BDT, No. of Seats: 35 , Deadline: 17 December, Welcome Class: 18 December(Approx.)'
+  label = 'Course Fee: 5100 BDT, No. of Seats: 35 , Deadline: 6 January, 2022, Welcome Class: 18 December(Approx.)'
 +++
 
 If you have no research experience but want to learn the necessary concepts in health research- then this is the right place for you to begin with.
