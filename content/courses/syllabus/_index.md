@@ -21,6 +21,8 @@ This course will give students a foundation in research principles and practice,
 
 We will also have weekly hands-on laboratory sessions in which students will have the opportunity to put the lecture material into practice
 
+
+
 ## Course Objectives
 - Provides fundamentals of research methodology concepts.
 - Understanding of the basic data collection principles.
