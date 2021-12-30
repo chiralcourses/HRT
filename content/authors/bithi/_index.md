@@ -21,7 +21,7 @@ social:
   link:
 superuser: false
 user_groups:
-- Instructors
+- Teaching Assistants
 ---
 Bithi Akter is an active member of CHIRAL Bangladesh and research assistant. She is an undergraduate student in the Department of Microbiology at Jagannath University and interested in Health data science & Industrial Microbiology.  Currently, he is working as a research assistant at CHIRAL Bangladesh. 
 
