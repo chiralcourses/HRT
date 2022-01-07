@@ -105,6 +105,18 @@ If we determine that you have willfully palagiarized an assignment, you will rec
 ### Additional Learning Needs
 Each of us has a different learning style, and We will do our best to accomodate diverse learning needs in the class. If you need any kind of accomodation, please come and talk to us as soon as you can so we can arrange a style of learning that works for you.
 
+<h3 style="color:red;">
+News and Announcements
+</h3>
+
+- As much as possible we use the [Piazza course site](https://piazza.com/class/kgp8llbdmx84s9) for new announcements. 
+- [Discord](https://slack.com/) is a chatroom for discussion. The participants can interact with mentors, share their problems and solutions easily.
+
+## Q&A
+
+Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.com/class/kgp8llbdmx84s9).
+
+
 ## Course Modules
 
 <table border = "1">

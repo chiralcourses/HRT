@@ -14,6 +14,21 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 
 <br>
 
+<h3 style="color:red;">
+News and Announcements
+</h3>
+
+- As much as possible we use the [Piazza course site](https://piazza.com/class/kgp8llbdmx84s9) for new announcements. 
+- [Discord](https://slack.com/) is a chatroom for discussion. The participants can interact with mentors, share their problems and solutions easily.
+
+## Q&A
+
+Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.com/class/kgp8llbdmx84s9).
+
+
+
+<br>
+
 ## :spiral_calendar: January 7, 2022
 
 | Time | Activity | Instructor(s)| 
