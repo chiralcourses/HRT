@@ -1,34 +1,29 @@
 ---
-title: 'Session 02: Advanced R Markdown'
+title: 'HRT101.L02: Literature Review'
 draft: false
-event: 'Young Statisticians Conference 2019'
-event_url: https://ysc2019.netlify.com/#workshop
-location: Canberra, Australia
-categories: [slides]
-tags: []
-lastmod: '2019-08-29T11:21:55-07:00'
-featured: no
-image:
-  caption: "[Proteaceæ image](https://www.c82.net/twining/plants/?id=118) by Nicholas Rougeux, CC-BY-SA"
-  focal_point: 'center'
-  preview_only: yes
-projects: []
-weight: 3
+event: 'Health Research ToolBox - A Step by Step Guide for Beginners'
+event_url: https://hrt.chiralbd.org/
+location: Dhaka, Bangladesh
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2019-09-30T08:00:00Z"
+#date_end: "2019-10-02T12:00:00Z"
+all_day: true
+publishdate: "2019-06-15"
+
 links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: /slides/02-advanced.html
+  url: /HRT101/slides/HRT101_Lesson2.html
+
+lastmod: '2019-06-16T02:20:01-07:00'
+projects: []
+weight: 2
 ---
 
-
 ```{r echo=FALSE}
-knitr::include_url("/slides/02-advanced.html")
+knitr::include_url("/HRT101/slides/HRT101_Lesson2.html")
 ```
 
-# Topics
-
-+ Parameterized reports
-+ R Markdown from the command line
-+ Version controlled projects
-+ Extension formats
