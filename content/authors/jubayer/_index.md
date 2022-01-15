@@ -3,7 +3,7 @@ authors:
 - jubayer
 bio: This course will give students a foundation in the principles and practice of
   data visualization, particularly as applied to scientific and technical data.
-email: ""
+email: "contact.jubayerhossain@gmail.com"
 name: Jubayer Hossain
 organizations:
 - name: CHIRAL Bangladesh
