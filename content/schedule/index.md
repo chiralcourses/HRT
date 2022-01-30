@@ -43,7 +43,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
-| 9:00 - 10:00 | Session 1 -  Course Policies| Dr. Tanvir Ahmed
+| 9:00 - 10:00 | Session 1 -  Course Policies| Jubayer Hossain
 | 10:00   - 10:05  | *Break* :tea: |
 | 10:05   - 11:00   | Session 2 - Introduction to Health Research | Dr. Tanvir
 <br>
@@ -53,7 +53,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
-| 9:00 - 10:00 | Session 1 -  Literature Review - 1| Dr. Tanvir Ahmed
+| 9:00 - 10:00 | Session 1 -  Literature Review - 1| Jubayer Hossain
 | 10:00   - 10:05  | *Break* :tea: |
 | 10:05   - 11:00   | Session 2 - Literature Review - 2| Jubayer Hossain
 <br>
@@ -62,32 +62,32 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
-| 9:00 - 10:00 | Session 1 -  Scientific Paper Reading| Dr. Tanvir Ahmed
+| 9:00 - 10:00 | Session 1 -  Scientific Paper Reading| Jubayer Hossain
 | 10:00   - 10:05  | *Break* :tea: |
 | 10:05   - 11:00   | Session 2 - Research Data Management| Jubayer Hossain
 <br>
 
 
-## :spiral_calendar:    January 21, 2022
+## :spiral_calendar:    February 4, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
-| 9:00 - 10:00 | Session 1 -  Study Designs| Dr. Tanvir Ahmed
+| 9:00 - 10:00 | Session 1 -  Study Designs| Jubayer Hossain
 | 10:00   - 10:05  | *Break* :tea: |
 | 10:05   - 11:00   | Session 2 - Sampling Methods| Jubayer Hossain
 <br>
 
-## :spiral_calendar:    January 22, 2022
+## :spiral_calendar:   February 5,, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
-| 9:00 - 10:00 | Session 1 -  Study Plan and Project Management| Dr. Tanvir Ahmed
+| 9:00 - 10:00 | Session 1 -  Study Plan and Project Management| Jubayer Hossain
 | 10:00   - 10:05  | *Break* :tea: |
 | 10:05   - 11:00   | Session 2 - Principles of Data Collection| Jubayer Hossain
 <br>
 
 
-## :spiral_calendar:    January 28, 2022
+## :spiral_calendar:    February 11, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -97,7 +97,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 <br>
 
 
-## :spiral_calendar:    January 29, 2022
+## :spiral_calendar:    February 12, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -108,7 +108,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 
 
 
-## :spiral_calendar:    February 04, 2022
+## :spiral_calendar:    February 18, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -117,7 +117,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 - Choosing the Suitable Statistical Test| Jubayer Hossain
 <br>
 
-## :spiral_calendar:    February 05, 2022
+## :spiral_calendar:    February 19, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -126,7 +126,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 - Categorical Data Analysis| Jubayer Hossain
 <br>
 
-## :spiral_calendar:    February 11, 2022
+## :spiral_calendar:    February 25, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -135,7 +135,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 - Building and Evaluating Classification Models| Jubayer Hossain
 <br>
 
-## :spiral_calendar:    February 12, 2022
+## :spiral_calendar:    February 26, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -144,7 +144,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 - Advance Google Forms for Survey Data Collection| Atik Shahariar Sammo
 <br>
 
-## :spiral_calendar:    February 18, 2022
+## :spiral_calendar:    March 4, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -153,7 +153,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 - AKoboToolBox for Survey Data Collection -2 | Atik Shahariar Sammo
 <br>
 
-## :spiral_calendar:    February 19, 2022
+## :spiral_calendar:    March 5, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -162,7 +162,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 - Data Types and Operators in R| Jubayer Hossain
 <br>
 
-## :spiral_calendar:    February 25, 2022
+## :spiral_calendar:    March 11, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -171,7 +171,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 - Control Flow in R| Jubayer Hossain
 <br>
 
-## :spiral_calendar:    February 26, 2022
+## :spiral_calendar:    March 12, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -180,7 +180,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 -  Data Management with R: An Inroduction to dplyr -2| Jubayer Hossain
 <br>
 
-## :spiral_calendar:    March 4, 2022
+## :spiral_calendar:    March 18, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -189,7 +189,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 -  Data Visualization with R: An Inroduction to ggplot2 -2| Jubayer Hossain
 <br>
 
-## :spiral_calendar:    March 5, 2022
+## :spiral_calendar:    March 19, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -198,7 +198,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 -  Interpreting Data Using Descriptive Statistics with R -2| Jubayer Hossain
 <br>
 
-## :spiral_calendar:    March 11, 2022
+## :spiral_calendar:    March 25, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -207,7 +207,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 -  Interpreting Data Using Inferential Statistics with R -2| Jubayer Hossain
 <br>
 
-## :spiral_calendar:    March 12, 2022
+## :spiral_calendar:    March 26, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -216,7 +216,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 -  Building and Evaluating Classification Models in R| Jubayer Hossain
 <br>
 
-## :spiral_calendar:    March 18, 2022
+## :spiral_calendar:    April 01, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -225,7 +225,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 -  Templates for Academic Writing| Atik Shahriar Sammo
 <br>
 
-## :spiral_calendar:    March 18, 2022
+## :spiral_calendar:    April 02, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
@@ -234,7 +234,7 @@ Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.
 | 10:05   - 11:00   | Session 2 -  Reference Management and Plagiarism Checker Tools| Atik Shahriar Sammo
 <br>
 
-## :spiral_calendar:    March 19, 2022
+## :spiral_calendar:    April 08, 2022
 
 | Time | Activity | Instructor(s)| 
 |:--------------|:--------| :--------|
