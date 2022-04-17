@@ -8,7 +8,7 @@ name: Atik Shahriar
 organizations:
 - name: CHIRAL Bangladesh
   url: https://chiralbd.org/member/atik_shariar_sammo/
-role: Instructor
+role: Teaching Assistant
 social:
 - icon: linkedin
   icon_pack: fab
@@ -21,7 +21,7 @@ social:
   link: https://github.com/samo
 superuser: true
 user_groups:
-- Instructors
+- Teaching Assistants
 ---
 
 Md. Atik Shahriar Sammo is an undergraduate student at Jagannath University in Microbiology department. Health data science, bioinformatics, public health is some of his research interests. He is working as project coordinator at CHIRAL Bangladesh. He is confident user of Linux, Python, and R.
