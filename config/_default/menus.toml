@@ -8,11 +8,6 @@
   url = "#logistics"
   weight = 10
 
-# [[main]]
-#   name = "Schedule"
-#   url = "#schedule"
-#   weight = 20
-
 [[main]]
   name = "Modules"
   url = "#syllabus"
@@ -28,6 +23,11 @@
   url = "courses/syllabus/"
   weight = 50
 
+
+[[main]]
+  name = "Schedule"
+  url = "https://docs.google.com/spreadsheets/d/1gyDYiWOEWkKB4gzk14q0LHlHOpzONkn6kPPNMPISMYE/edit?usp=sharing"
+  weight = 60
 
 #[[main]]
   #name = "Schedule"

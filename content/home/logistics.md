@@ -18,7 +18,7 @@ subtitle = "We meet twice a week, alternating lectures on Friday and labs on Sat
   icon = "cloud"
   icon_pack = "fas"
   name = "Location"
-  description = "Online, all the time"
+  description = "Online (Google Meet/Zoom), all the time"
 
 [[feature]]
   icon = "play-circle"

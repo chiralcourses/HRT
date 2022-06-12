@@ -52,13 +52,12 @@ subtitle = ""
 
 ## Moudles
 HRT101: Introduction to Health Research <br>
-HRT102: NIH Research Ethics <br>
-HRT103: Applied Biotatistics for Beginners<br>
-HRT104: Tools for Data Collection<br>
-HRT105: Introduction to R for Health Data Analysis<br>
-HRT106: Academic Writing with LaTeX<br>
-HRT107: Tools and Softwares for Research<br>
-HRT108: Research Project
+HRT102: Ethics in Research – Guidelines in Research<br>
+HRT103: Tools for Data Collection<br>
+HRT104: Applied Biotatistics with R<br>
+HRT105: Introduction to Academic Writing<br>
+HRT106: Scientific Journals – Finding Suitable Journals for Publication<br>
+HRT108: Final Project – Designing Final Project
 
 ## References
 Basic Epidemiology by World Health Organization <br>
