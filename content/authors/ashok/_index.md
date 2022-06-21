@@ -1,6 +1,6 @@
 ---
 authors:
-- tanvir
+- ashok
 bio: This course will give students a foundation in the principles and practice of
   data visualization, particularly as applied to scientific and technical data.
 email: "ashok@gmail.com"

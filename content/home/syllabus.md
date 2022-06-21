@@ -57,7 +57,7 @@ HRT103: Tools for Data Collection<br>
 HRT104: Applied Biotatistics with R<br>
 HRT105: Introduction to Academic Writing<br>
 HRT106: Scientific Journals – Finding Suitable Journals for Publication<br>
-HRT108: Final Project – Designing Final Project
+HRT107: Final Project – Designing Final Project
 
 ## References
 Basic Epidemiology by World Health Organization <br>

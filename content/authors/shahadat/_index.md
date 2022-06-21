@@ -1,30 +1,27 @@
 ---
 authors:
-- wahid
-bio: This course will give students a foundation in the principles and practice of
-  data visualization, particularly as applied to scientific and technical data.
-email: "ashok@gmail.com"
+- admin
+bio: I'm Shahadat , a Teaching Assistant(TA) in CHIRAL Bangladesh who helps instructors  to prepare class materials , assignments and quizzes. I believe that through these  courses there are lots to be learned from here. I'm also pursuing B.sc in Microbiology  at Jagannath University , Dhaka, Bangladesh and a Research Assistant(RA) in CHIRAL Bangladesh.  Biotechnology, Bioinformatics, Public health ,Virology are some of my research interests.
+education:
+  courses:
+  - course: BS.c in Microbiology
+    institution: Jagannath University
+    year: 
+ 
+email: "shahadat78295@gmail.com"
+
+
 name: Md. Shahadat Bin Shahid
 organizations:
-- name: CHIRAL Bangladesh
-  url: https://chiralbd.org/member/wahid_arafat/
+- name: Department of Microbiology
+  url: "https://chiralbd.org/"
 role: Teaching Assistant
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://rstudio.cloud
-- icon: piazza
-  icon_pack: ai
-  link: https://piazza.com/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/apreshill/dataviz-intro
-superuser: true
+  link: https://www.linkedin.com/in/md-shahadat-bin-shahid-4a0348238
+superuser: false
 user_groups:
 - Teaching Assistants
 ---
-
-
-He is an undergraduate student in the Department of Microbiology at Jagannath University. Virology, Immunology, Bioinformatics, Public health are some of his research interests. Currently, he is working as a research assistant at CHIRAL Bangladesh.
-
-Key Skills: Data Collection, SPSS, KoboToolBox
+I'm Shahadat , a Teaching Assistant(TA) in CHIRAL Bangladesh who helps instructors  to prepare class materials , assignments and quizzes. I believe that through these  courses there are lots to be learned from here. I'm also pursuing B.sc in Microbiology  at Jagannath University , Dhaka, Bangladesh and a Research Assistant(RA) in CHIRAL Bangladesh.  Biotechnology, Bioinformatics, Public health ,Virology are some of my research interests.
