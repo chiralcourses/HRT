@@ -16,9 +16,7 @@ social:
 - icon: piazza
   icon_pack: ai
   link: https://piazza.com/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/apreshill/dataviz-intro
+
 superuser: true
 user_groups:
 - Teaching Assistants

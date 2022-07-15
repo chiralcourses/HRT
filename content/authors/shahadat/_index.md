@@ -20,6 +20,11 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/md-shahadat-bin-shahid-4a0348238
+  
+- icon: piazza
+  icon_pack: ai
+  link: https://piazza.com/
+  
 superuser: false
 user_groups:
 - Teaching Assistants

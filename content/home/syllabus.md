@@ -52,16 +52,13 @@ subtitle = ""
 
 ## Moudles
 HRT101: Introduction to Health Research <br>
-HRT102: Ethics in Research – Guidelines in Research<br>
-HRT103: Tools for Data Collection<br>
-HRT104: Applied Biotatistics with R<br>
-HRT105: Introduction to Academic Writing<br>
-HRT106: Scientific Journals – Finding Suitable Journals for Publication<br>
-HRT107: Final Project – Designing Final Project
+HRT102: Mobile Data Collection Using KoBoToolbox<br>
+HRT103: Statistical Analysis with R for Public Health<br>
+HRT104: Scientific Writing in Health Sciences<br>
+HRT105: Scientific Journals: Publishing a Scientific Paper<br>
 
 ## References
 Basic Epidemiology by World Health Organization <br>
-NIH Research Ethics <br>
 Fundamentalsof Biostatistics by Bernard Rosner <br>
 Applied Medical Statistics for Beginners by Dr. Mohamed Elsherif <br>
 Introduction to R Programming by Dr. Roger D. Peng <br>

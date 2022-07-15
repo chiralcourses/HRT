@@ -16,9 +16,7 @@ social:
 - icon: piazza
   icon_pack: ai
   link: https://piazza.com/
-- icon: github
-  icon_pack: fab
-  link:
+
 superuser: false
 user_groups:
 - Advisers
